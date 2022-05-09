@@ -12,20 +12,19 @@ Under The Hotel Management System (HMS) Each Group will have below moduels like
 4. Report Module - This module will be developed by 1 associates in group
 
 # TECHNOLOGGIES USED
+
   -> TECH-1 : JAVA VERSION 1.8
   -> TECH-2 : SQL VERSION 8.0.28
   -> TECH-2 : JDBC VERSION 8.0.28
 
 # FEATURES
+
   -> Each user report can be provided.
   -> Day wise report can be provided.
   -> Upto date all records can be provided.
-# TO-DO LIST
 
-  -> WE HAVE TO CREATE SOME MORE ITEMS FOR CUSTOMERS FOR HIS/HER BENEFITS.
-  -> THE CUSTOMER CAN PAY THE AMOUNT FROM WEBSITE
-  -> WE HAVE TO ADD SOME SPRING AND ANGULAR ALSO
 # GETTING STARTED WITH HOW TO KEEP CODE IN GIT HUB
+
 1. First, you must install Git Bash.
 2. Here's where you can get Git Bash: https://github.com/git-for-windows/git/releases/download/v2.35.3.windows.1/Git-2.35.3-64-bit.exe
 3. We must look at the following while installing Git Bash: Don't choose as in Credential Manager as "none".
